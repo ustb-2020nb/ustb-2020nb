@@ -22,6 +22,13 @@ My name is **Bo Ning**, and my GitHub username is **ustb-2020nb**. I have comple
 
 我叫 **Bo Ning**，GitHub 用户名为 **ustb-2020nb**。我已毕业，目前暂无所属高校、研究机构或公司。
 
+## Education / 教育经历
+
+| Period / 时间 | Institution / 学校 | Study / 学习阶段 |
+| :--- | :--- | :--- |
+| 2024–2025 | The Hong Kong Polytechnic University · 香港理工大学 | Master’s studies / 硕士阶段 |
+| 2020–2024 | University of Science and Technology Beijing · 北京科技大学 | Undergraduate studies / 本科阶段 |
+
 ## Contact / 联系方式
 
 - **Name / 姓名:** Bo Ning
