@@ -1,61 +1,40 @@
 <div align="center">
 
-<sub>WELCOME TO MY LITTLE CORNER OF GITHUB</sub>
+<sub>PERSONAL HOMEPAGE · 个人主页</sub>
 
-# Hi, I’m ustb-2020nb 👋
+# Bo Ning
 
-**保持好奇，把想法写成代码。**
+Graduate · Currently unaffiliated
 
-Stay curious. Turn ideas into code.
+已毕业，目前无所属单位
 
-[浏览项目](https://github.com/ustb-2020nb?tab=repositories) · [我的收藏](https://github.com/ustb-2020nb?tab=stars) · [交流想法](https://github.com/ustb-2020nb/ustb-2020nb/issues)
+**Email:** [986354169@qq.com](mailto:986354169@qq.com)
+
+[GitHub](https://github.com/ustb-2020nb) · [Repositories](https://github.com/ustb-2020nb?tab=repositories)
 
 </div>
 
 ---
 
-### Hello, world / 你好，世界
+## About / 关于我
 
-欢迎来到我的 GitHub 主页。这里是代码、实验与学习的一个小小入口。
+My name is **Bo Ning**, and my GitHub username is **ustb-2020nb**. I have completed my studies and am currently not affiliated with a university, research institution, or company.
 
-探索一个想法，动手做点东西，再让它变得更好。
+我叫 **Bo Ning**，GitHub 用户名为 **ustb-2020nb**。我已毕业，目前暂无所属高校、研究机构或公司。
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Contact / 联系方式
 
-### 🧭 Explore / 探索
+- **Name / 姓名:** Bo Ning
+- **Current affiliation / 当前所属单位:** None / 暂无
+- **Email / 邮箱:** [986354169@qq.com](mailto:986354169@qq.com)
+- **GitHub:** [ustb-2020nb](https://github.com/ustb-2020nb)
 
-从问题出发，在实践中寻找答案。
+## Projects / 项目
 
-[查看公开仓库 →](https://github.com/ustb-2020nb?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Connect / 交流
-
-欢迎围绕代码和项目分享想法。
-
-📫 Email：[986354169@qq.com](mailto:986354169@qq.com)
-
-[在这里打个招呼 →](https://github.com/ustb-2020nb/ustb-2020nb/issues)
-
-</td>
-</tr>
-</table>
-
-### 📂 Project corner / 项目一角
-
-| 项目 | 简介 |
-| :--- | :--- |
-| [github-slideshow](https://github.com/ustb-2020nb/github-slideshow) | GitHub 入门练习仓库 🤖 |
+[Browse my public repositories →](https://github.com/ustb-2020nb?tab=repositories)
 
 ---
 
 <div align="center">
-
-<sub>一点好奇，一点耐心，一次提交。</sub><br>
-<sub>One idea. One step. One commit at a time.</sub>
-
+<sub>Stay curious. Turn ideas into code.</sub>
 </div>
