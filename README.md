@@ -37,6 +37,8 @@ Stay curious. Turn ideas into code.
 
 欢迎围绕代码和项目分享想法。
 
+📫 Email：[986354169@qq.com](mailto:986354169@qq.com)
+
 [在这里打个招呼 →](https://github.com/ustb-2020nb/ustb-2020nb/issues)
 
 </td>
